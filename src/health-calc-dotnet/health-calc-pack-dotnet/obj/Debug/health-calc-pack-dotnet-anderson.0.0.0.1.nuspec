@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>health-calc-pack-dotnet-anderson</id>
+    <version>0.0.0.1</version>
+    <authors>health-calc-pack-dotnet</authors>
+    <icon>icon.png</icon>
+    <description>Biblioteca para Cálculo de Saúde (IMC e Macronutrientes)</description>
+    <repository type="git" url="https://github.com/seibertanderson/health-calc-pack-dotnet" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\bin\Debug\net6.0\health-calc-pack-dotnet.dll" target="lib\net6.0\health-calc-pack-dotnet.dll" />
+    <file src="D:\Github\health-calc-pack-dotnet\icon.png" target="\icon.png" />
+  </files>
+</package>

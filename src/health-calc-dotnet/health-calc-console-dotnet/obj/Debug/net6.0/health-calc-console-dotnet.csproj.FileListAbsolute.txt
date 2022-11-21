@@ -1,0 +1,17 @@
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\bin\Debug\net6.0\health-calc-console-dotnet.exe
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\bin\Debug\net6.0\health-calc-console-dotnet.deps.json
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\bin\Debug\net6.0\health-calc-console-dotnet.runtimeconfig.json
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\bin\Debug\net6.0\health-calc-console-dotnet.dll
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\bin\Debug\net6.0\health-calc-console-dotnet.pdb
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\bin\Debug\net6.0\health-calc-pack-dotnet.dll
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\health-calc-console-dotnet.csproj.AssemblyReference.cache
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\health-calc-console-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\health-calc-console-dotnet.AssemblyInfoInputs.cache
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\health-calc-console-dotnet.AssemblyInfo.cs
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\health-calc-console-dotnet.csproj.CoreCompileInputs.cache
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\health-calc-console-dotnet.csproj.CopyComplete
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\health-calc-console-dotnet.dll
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\refint\health-calc-console-dotnet.dll
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\health-calc-console-dotnet.pdb
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\health-calc-console-dotnet.genruntimeconfig.cache
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\ref\health-calc-console-dotnet.dll

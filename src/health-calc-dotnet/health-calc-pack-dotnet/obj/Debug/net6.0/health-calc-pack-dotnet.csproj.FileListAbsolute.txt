@@ -1,0 +1,12 @@
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\bin\Debug\net6.0\health-calc-pack-dotnet.deps.json
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\bin\Debug\net6.0\health-calc-pack-dotnet.dll
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\bin\Debug\net6.0\health-calc-pack-dotnet.pdb
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.csproj.AssemblyReference.cache
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.AssemblyInfoInputs.cache
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.AssemblyInfo.cs
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.csproj.CoreCompileInputs.cache
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.dll
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\refint\health-calc-pack-dotnet.dll
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.pdb
+D:\Github\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\ref\health-calc-pack-dotnet.dll

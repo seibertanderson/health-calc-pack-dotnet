@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "health-calc-console-dotnet/1.0.0": {
+        "dependencies": {
+          "health-calc-pack-dotnet-anderson": "1.0.0.2"
+        },
+        "runtime": {
+          "health-calc-console-dotnet.dll": {}
+        }
+      },
+      "health-calc-pack-dotnet-anderson/1.0.0.2": {
+        "runtime": {
+          "lib/net6.0/health-calc-pack-dotnet.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "health-calc-console-dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "health-calc-pack-dotnet-anderson/1.0.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-biksRedtOGHhjI3W6GSQ2xBAOsCYji1CMWC58JCmMke/WuFs1O6oK+y8bUyOXxbiAu2y1u2eA49W7RWBDJEV/g==",
+      "path": "health-calc-pack-dotnet-anderson/1.0.0.2",
+      "hashPath": "health-calc-pack-dotnet-anderson.1.0.0.2.nupkg.sha512"
+    }
+  }
+}
