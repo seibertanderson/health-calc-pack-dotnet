@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5DabvDxigV0kQU20GCiwMQKveiVyeVG2J5N50y7MQzgvqDv1ggnxHRycM3YSTPaQoNHehlUwsaxPnNNpL8IRow==",
+  "dgSpecHash": "y+57EknI5m6NH15l9cczlYcRCRkh4436m/uPB+bsGCN8kHb+zxJVz+miieFXo1l5LTEje43Xi5WUJCKO3r0Bxw==",
   "success": true,
   "projectFilePath": "D:\\Github\\health-calc-pack-dotnet\\src\\health-calc-dotnet\\health-calc-console-dotnet\\health-calc-console-dotnet.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\PC-ANDERSON\\.nuget\\packages\\health-calc-pack-dotnet-anderson\\1.0.0.2\\health-calc-pack-dotnet-anderson.1.0.0.2.nupkg.sha512"
+    "C:\\Users\\PC-ANDERSON\\.nuget\\packages\\health-calc-pack-dotnet-anderson\\1.0.3\\health-calc-pack-dotnet-anderson.1.0.3.nupkg.sha512"
   ],
   "logs": []
 }

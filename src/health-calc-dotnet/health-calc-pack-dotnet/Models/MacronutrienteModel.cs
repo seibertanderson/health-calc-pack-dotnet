@@ -2,9 +2,9 @@
 {
     public class MacronutrienteModel
     {
-        public int Carboidratos { get; set; }
-        public int Proteinas { get; set; }
-        public int Gorduras { get; set; }
+        public double Carboidratos { get; set; }
+        public double Proteinas { get; set; }
+        public double Gorduras { get; set; }
 
     }
 }

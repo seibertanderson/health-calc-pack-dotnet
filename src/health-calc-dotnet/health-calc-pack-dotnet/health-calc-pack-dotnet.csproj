@@ -11,7 +11,7 @@
     <RepositoryUrl>https://github.com/seibertanderson/health-calc-pack-dotnet</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageIcon>icon.png</PackageIcon>
-    <Version>1.0.0.2</Version>
+    <Version>1.0.3</Version>
     <PackageId>health-calc-pack-dotnet-anderson</PackageId>
     <Company>health-calc-pack-dotnet-anderson</Company>
   </PropertyGroup>

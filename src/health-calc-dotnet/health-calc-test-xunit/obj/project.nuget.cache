@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WxaEKn7vQTa4fzjd/jQBEANgbQlnE1QS/8TVdJnisTns7Ut49HRmWRP1f/nGooD/cJ+CsLJWT0kc1/NPRaph6A==",
+  "dgSpecHash": "07uP3O4NsWUtkTdOV9LcoxqUFYtoJ+Q33fDMCaYKJhhPPMpQ2aAa7kXKFFrswYD42FJl0S2YVdiB2G5vvhnTGQ==",
   "success": true,
   "projectFilePath": "D:\\Github\\health-calc-pack-dotnet\\src\\health-calc-dotnet\\health-calc-test-xunit\\health-calc-test-xunit.csproj",
   "expectedPackageFiles": [
@@ -95,7 +95,8 @@
     "C:\\Users\\PC-ANDERSON\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
     "C:\\Users\\PC-ANDERSON\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\PC-ANDERSON\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "C:\\Users\\PC-ANDERSON\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    "C:\\Users\\PC-ANDERSON\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512",
+    "C:\\Users\\PC-ANDERSON\\.nuget\\packages\\health-calc-pack-dotnet-anderson\\1.0.3\\health-calc-pack-dotnet-anderson.1.0.3.nupkg.sha512"
   ],
   "logs": []
 }

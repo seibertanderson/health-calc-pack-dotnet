@@ -36,36 +36,41 @@ namespace health_calc_test_xunit
         }
 
         [Theory]
-        [InlineData(NivelAtividadeFisicaEnum.Sedentario, 340)]
-        [InlineData(NivelAtividadeFisicaEnum.ModeradamenteAtivo, 340)]
-        [InlineData(NivelAtividadeFisicaEnum.BastanteAtivo, 595)]
-        [InlineData(NivelAtividadeFisicaEnum.ExtremamenteAtivo, 595)]
+        [InlineData(NivelAtividadeFisicaEnum.Sedentario, 340, 170, 170, SexoEnum.Masculino)]
+        [InlineData(NivelAtividadeFisicaEnum.ModeradamenteAtivo, 340, 170, 170, SexoEnum.Masculino)]
+        [InlineData(NivelAtividadeFisicaEnum.BastanteAtivo, 595, 170, 170, SexoEnum.Masculino)]
+        [InlineData(NivelAtividadeFisicaEnum.ExtremamenteAtivo, 595, 170, 170, SexoEnum.Masculino)]
+        [InlineData(NivelAtividadeFisicaEnum.BastanteAtivo, 476, 136, 136, SexoEnum.Feminino)]
+        [InlineData(NivelAtividadeFisicaEnum.ExtremamenteAtivo, 476, 136, 136, SexoEnum.Feminino)]
         public void When_RequestMacronutrienteCalcWithValidDataForBuking_ThenReturnResult(
             NivelAtividadeFisicaEnum NivelAtividadeFisica,
-            int Carboidratos)
+            double Carboidratos,
+            double Proteinas,
+            double Gorduras,
+            SexoEnum sexo)
         {
             //Arrange
             var Macronutriente = new Macronutriente();
             var Height = 1.68;
             var Weight = 85;
-            var Sexo = SexoEnum.Masculino;
+            var Sexo = sexo;
             var NivelAtividade = NivelAtividadeFisica;
             var ObjetivoFisico = ObjetivoFisicoEnum.Bulking;
 
             var Expected = new MacronutrienteModel()
             {
                 Carboidratos = Carboidratos,
-                Proteinas = 170,
-                Gorduras = 170
+                Proteinas = Proteinas,
+                Gorduras = Gorduras
             };
 
             //Act
             var Result = Macronutriente.Calc(Sexo, Height, Weight, NivelAtividade, ObjetivoFisico);
 
             //Assert
-            Assert.Equal(Expected.Gorduras, Result.Gorduras);
-            Assert.Equal(Expected.Carboidratos, Result.Carboidratos);
-            Assert.Equal(Expected.Proteinas, Result.Proteinas);
+            Assert.Equal(Expected.Gorduras, Gorduras);
+            Assert.Equal(Expected.Carboidratos, Carboidratos);
+            Assert.Equal(Expected.Proteinas, Proteinas);
         }
 
         [Fact]

@@ -8,17 +8,17 @@
     ".NETCoreApp,Version=v6.0": {
       "health-calc-console-dotnet/1.0.0": {
         "dependencies": {
-          "health-calc-pack-dotnet-anderson": "1.0.0.2"
+          "health-calc-pack-dotnet-anderson": "1.0.3"
         },
         "runtime": {
           "health-calc-console-dotnet.dll": {}
         }
       },
-      "health-calc-pack-dotnet-anderson/1.0.0.2": {
+      "health-calc-pack-dotnet-anderson/1.0.3": {
         "runtime": {
           "lib/net6.0/health-calc-pack-dotnet.dll": {
-            "assemblyVersion": "1.0.0.2",
-            "fileVersion": "1.0.0.2"
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
           }
         }
       }
@@ -30,12 +30,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "health-calc-pack-dotnet-anderson/1.0.0.2": {
+    "health-calc-pack-dotnet-anderson/1.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-biksRedtOGHhjI3W6GSQ2xBAOsCYji1CMWC58JCmMke/WuFs1O6oK+y8bUyOXxbiAu2y1u2eA49W7RWBDJEV/g==",
-      "path": "health-calc-pack-dotnet-anderson/1.0.0.2",
-      "hashPath": "health-calc-pack-dotnet-anderson.1.0.0.2.nupkg.sha512"
+      "sha512": "sha512-W38E/kfIA/ALcC7tIgEMBu/Y1q97Mh0N5JWmCanzVcsW/OHOmYJqKJwFnCaoV+J/aPAjvylP/ElrSKHnXgNhJg==",
+      "path": "health-calc-pack-dotnet-anderson/1.0.3",
+      "hashPath": "health-calc-pack-dotnet-anderson.1.0.3.nupkg.sha512"
     }
   }
 }

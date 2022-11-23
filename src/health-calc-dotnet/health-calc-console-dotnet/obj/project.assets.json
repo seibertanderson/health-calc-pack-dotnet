@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "health-calc-pack-dotnet-anderson/1.0.0.2": {
+      "health-calc-pack-dotnet-anderson/1.0.3": {
         "type": "package",
         "compile": {
           "lib/net6.0/health-calc-pack-dotnet.dll": {}
@@ -14,14 +14,14 @@
     }
   },
   "libraries": {
-    "health-calc-pack-dotnet-anderson/1.0.0.2": {
-      "sha512": "biksRedtOGHhjI3W6GSQ2xBAOsCYji1CMWC58JCmMke/WuFs1O6oK+y8bUyOXxbiAu2y1u2eA49W7RWBDJEV/g==",
+    "health-calc-pack-dotnet-anderson/1.0.3": {
+      "sha512": "W38E/kfIA/ALcC7tIgEMBu/Y1q97Mh0N5JWmCanzVcsW/OHOmYJqKJwFnCaoV+J/aPAjvylP/ElrSKHnXgNhJg==",
       "type": "package",
-      "path": "health-calc-pack-dotnet-anderson/1.0.0.2",
+      "path": "health-calc-pack-dotnet-anderson/1.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "health-calc-pack-dotnet-anderson.1.0.0.2.nupkg.sha512",
+        "health-calc-pack-dotnet-anderson.1.0.3.nupkg.sha512",
         "health-calc-pack-dotnet-anderson.nuspec",
         "icon.png",
         "lib/net6.0/health-calc-pack-dotnet.dll"
@@ -30,7 +30,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "health-calc-pack-dotnet-anderson >= 1.0.0.2"
+      "health-calc-pack-dotnet-anderson >= 1.0.3"
     ]
   },
   "packageFolders": {
@@ -74,7 +74,7 @@
         "dependencies": {
           "health-calc-pack-dotnet-anderson": {
             "target": "Package",
-            "version": "[1.0.0.2, )"
+            "version": "[1.0.3, )"
           }
         },
         "imports": [
